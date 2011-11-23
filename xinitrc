@@ -1,0 +1,7 @@
+#export LANG=zh_CN.UTF-8
+export LANG="en_US.UTF-8"
+export LC_CTYPE="zh_CN.UTF-8"
+xrdb -merge ~/.Xresources
+urxvtd -q -o -f &
+numlockx &
+exec openbox
