@@ -1,0 +1,7 @@
+#2011/12/19 13:48:57 
+#git@github.com:notfuyun/home.git
+
+# add new file
+git add file.name
+git commit -m 'add new file'
+git push origin master
