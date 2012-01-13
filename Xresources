@@ -19,10 +19,13 @@ Rxvt.color12:#729fcf
 Rxvt.color13:#ad7fa8
 Rxvt.color14:#34e2e2
 Rxvt.color15:#eeeeec
-Rxvt.scrollColor:#006699
-Rxvt.font:xft:DejaVu Sans Mono:size=11,xft:Yahei Mono:size=11
+Rxvt.scrollColor:#003366
+Rxvt.font:xft:DejaVu Sans Mono:size=11,xft:Yahei Mono:size=16
 !scrollbar
 Rxvt.scrollBar:True
 Rxvt.scrollBar_right:True
-Rxvt.scrollBar_floating: False
+Rxvt.scrollBar_floating:False
 Rxvt.scrollstyle:plain
+!ALPHA
+!Rxvt.depth:32
+!Rxvt.background:[80]black
